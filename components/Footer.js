@@ -7,7 +7,11 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-5">
 
         <h2 className="text-[#00ff87] text-3xl font-black tracking-[4px]">
-          HP
+           <img 
+    src="/harsh.png" 
+    alt="HP Logo" 
+    className="h-16 md:h-24 w-auto object-contain inline-block" 
+  />
         </h2>
 
         <p className="text-gray-500 text-sm tracking-[2px] uppercase">
