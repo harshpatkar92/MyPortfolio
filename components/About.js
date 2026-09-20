@@ -30,12 +30,11 @@ export default function About() {
                 <span className="text-white font-semibold">
                   Harsh Patkar
                 </span>
-                , a passionate B.Tech Computer Science student at GGITS Jabalpur.
+                , a Computer Science Engineer who loves building modern web applications, AI-driven solutions, and immersive digital experiences.
               </p>
 
               <p className="text-gray-400 leading-8 mb-6 text-lg">
-                I love building futuristic web applications,
-                AI projects and premium user experiences.
+               I turn ideas into functional, user-focused products while constantly exploring new technologies and pushing my skills further.
               </p>
 
               <p className="text-gray-400 leading-8 mb-10 text-lg">
