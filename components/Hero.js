@@ -225,7 +225,7 @@ export default function Hero() {
               {/* Top Label */}
               <div className="absolute top-5 left-5 right-5 flex items-center justify-between z-20">
                 <span className="text-[9px] uppercase tracking-[3px] text-white/60">
-                  Portfolio / 2026
+                 
                 </span>
 
                 <span className="flex items-center gap-2 text-[9px] uppercase tracking-[2px] text-[#00ff87]">
